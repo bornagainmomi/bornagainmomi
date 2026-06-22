@@ -65,7 +65,7 @@ I'm an official Scrimbassador at [Scrimba](https://scrimba.com/?via=u444d8cc) �
 
 ### 🔗 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/muhammad-190216286) • [My Scrimba Profile](https://scrimba.com/me?via=u444d8cc) • [DevBlock Studios](#) • [Email](mailto:muhammad.03kh@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/muhammad-190216286) • [My Scrimba Profile](https://scrimba.com/me?via=u444d8cc) • [DevBlock Studios](#) • [Email](mailto:muhammad@devblockstudios.com)
 
 ---
 
