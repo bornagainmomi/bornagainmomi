@@ -3,7 +3,7 @@
 - 🧠 **What I build:** Scalable web apps, AI-driven systems, automation pipelines, and developer tools
 - 🎨 **What I care about:** Clean architecture, efficient code, and solutions that actually solve real business problems
 - 🧩 **Tech I'm using:** Django, Python, LangChain, RAG, Vector Databases, JavaScript, React
-- 🚀 **Fun fact:** I'm a CETO (Chief Executive & Technology Officer) running a software studio while still completing my CS degree — and I wouldn't have it any other way
+- 🚀 **Fun fact:** I'm a CETO (Chief Executive & Technology Officer) running a software studio and I wouldn't have it any other way
 
 ---
 
